@@ -148,8 +148,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 2.2000122, y: 154.6}
-  m_SizeDelta: {x: 386.4, y: 284.8}
+  m_AnchoredPosition: {x: 2.2000122, y: 138}
+  m_SizeDelta: {x: 386.4, y: 180.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &106104488
 MonoBehaviour:
@@ -280,7 +280,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.00039672852, y: -99.81799}
+  m_AnchoredPosition: {x: 0.00036621094, y: -99.81799}
   m_SizeDelta: {x: 2845.5, y: 1383.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &200114501
@@ -558,8 +558,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 2.2000122, y: 190.4}
-  m_SizeDelta: {x: 386.4, y: 284.8}
+  m_AnchoredPosition: {x: 2.2000122, y: 270.8}
+  m_SizeDelta: {x: 386.4, y: 172.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1074402028
 MonoBehaviour:
@@ -754,7 +754,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 140}
+  m_AnchoredPosition: {x: 0, y: 6}
   m_SizeDelta: {x: 0, y: 360.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1393956105
@@ -1007,13 +1007,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1574116315}
-  m_LocalRotation: {x: -0.6996329, y: -0, z: -0, w: 0.7145026}
-  m_LocalPosition: {x: 0, y: 0, z: 0.96}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0.012529476, y: 0.71579474, z: -0.69807935, w: -0.012892656}
+  m_LocalPosition: {x: 0.014, y: 0.021000028, z: 0.96000004}
+  m_LocalScale: {x: 0.13706473, y: 1.0000001, z: 0.14868149}
   m_Children: []
   m_Father: {fileID: 1892807073}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: -88.795006, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 88.564, y: 182.20499, z: 0.14400001}
 --- !u!64 &1574116317
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1043,7 +1043,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: fb4fbd1b92e244df2bc6f43deb7a57a2, type: 2}
+  - {fileID: 2100000, guid: 87e8eeef039ada3448f1f970ca9d5938, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
